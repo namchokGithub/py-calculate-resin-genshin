@@ -1,0 +1,1 @@
+# py-calculate-resin-genshin
